@@ -1,0 +1,4 @@
+# Fill secret information here
+access_key = "<your access key>"
+secret_key = "<your secret key>"
+public_ssh_key = "<your public ssh key>"
